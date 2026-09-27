@@ -1,0 +1,6 @@
+# build output and runtime files
+*.exe
+*.exe.old
+*.pdb
+crosshair.ini
+verify/*.png
